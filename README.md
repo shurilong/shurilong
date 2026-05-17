@@ -14,5 +14,5 @@
   <br><br>
    <br><br>
 <a href="https://shakespeare.atabook.org/">
-   <img src="https://files.catbox.moe/eh0g6o.png" align="center" width="295">
+   <img src="https://files.catbox.moe/eh0g6o.png" align="center" width="270">
 </a>
