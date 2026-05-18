@@ -22,5 +22,5 @@
  <br><br>
  <br><br>
  <br><br>
-![](https://komarev.com/ghpvc/?username=shurilong&abbreviated=true&label=Successful+Experiments&color=cb0040&width="9000"&align="center")
+![](https://komarev.com/ghpvc/?username=shurilong&abbreviated=true&label=Successful+Experiments&color=cb0040&width="9000"&style=plastic&align=center)
 
