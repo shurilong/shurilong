@@ -26,4 +26,6 @@
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=316irsi7lvbiszx7er54rh3hh7au">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=316irsi7lvbiszx7er54rh3hh7au" alt="Data Card for Spotify" width="576" align="center">
 </a>
-![](https://komarev.com/ghpvc/?username=shurilong&abbreviated=true&label=Successful+Experiments&color=cb0040&width="9000"&style=plastic)
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=shurilong&abbreviated=true&label=Successful+Experiments&color=cb0040&style=plastic)
