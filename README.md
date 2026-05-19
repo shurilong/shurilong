@@ -29,3 +29,9 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bangers&size=40&letterSpacing=double+space&duration=2609&pause=1000&color=CB0040&center=true&vCenter=true&width=650&height=52&lines=Hey+ay+ay%2C+hey+ay!;If+crazy+equals+genius;Hey+ay+ay%2C+hey+ay!;If+crazy+equals+genius!!;Then+I'm+a+fucking+arsonist+(hey!);I'm+a+rocket+scientist+(hey!);Hey+ay+ay!;If+crazy+equals+genius!!!)](https://git.io/typing-svg)
 </div>
 
+ <br><br>
+ <br><br>
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=316irsi7lvbiszx7er54rh3hh7au">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=316irsi7lvbiszx7er54rh3hh7au" alt="Data Card for Spotify" align="center">
+</a>
+
