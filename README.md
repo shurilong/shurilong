@@ -2,7 +2,6 @@
   
 ![](https://komarev.com/ghpvc/?username=shurilong&abbreviated=true&label=Successful+Experiments&color=cb0040&style=plastic)
 </div>
-  <br><br>
   <img src="https://files.catbox.moe/4etqnd.png" align="left" width="550">
   
    <br><br>
