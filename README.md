@@ -13,8 +13,6 @@
 <p align= center>
 <img src= "https://files.catbox.moe/av2794.png"width= 180>
 </p>
-<div align="center">
-${\color{#0bb38c}EYE OF THE BELIEVER.}$
-</div>
-<br>
-
+<p align="center">
+$\color{#0bb38c}{{"𝐄𝐘𝐄\quad 𝐎𝐅\quad 𝐓𝐇𝐄\quad 𝐁𝐄𝐋𝐈𝐄𝐕𝐄𝐑."}}$
+</p>
