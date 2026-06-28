@@ -1,3 +1,4 @@
+Intended for/looks better on light mode
 <p align= center>
 <img src= "https://files.catbox.moe/414yw5.png"width= 350>
 </p>
