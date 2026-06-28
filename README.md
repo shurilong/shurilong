@@ -19,6 +19,6 @@ $\color{#0bb38c}{{"𝐄𝐘𝐄\quad 𝐎𝐅\quad 𝐓𝐇𝐄\quad 𝐁𝐄�
 <br>
 <br>
 <br>
-<a href="https://fluffle.cc/shark-bite">Fluffle</a>     <a href="https://fluffle.cc/shark-bite">atabook</a>
+⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ Read pt info & links byi
 
 
