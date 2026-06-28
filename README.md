@@ -16,9 +16,5 @@
 <p align="center">
 $\color{#0bb38c}{{"𝐄𝐘𝐄\quad 𝐎𝐅\quad 𝐓𝐇𝐄\quad 𝐁𝐄𝐋𝐈𝐄𝐕𝐄𝐑."}}$
 </p>
-<br>
-<br>
-<br>
-⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀Read pt info & links byi
 
 
