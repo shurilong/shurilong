@@ -19,6 +19,6 @@ $\color{#0bb38c}{{"𝐄𝐘𝐄\quad 𝐎𝐅\quad 𝐓𝐇𝐄\quad 𝐁𝐄�
 <br>
 <br>
 <br>
-⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ Read pt info & links byi
+⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀Read pt info & links byi
 
 
