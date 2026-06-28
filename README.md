@@ -16,3 +16,9 @@
 <p align="center">
 $\color{#0bb38c}{{"𝐄𝐘𝐄\quad 𝐎𝐅\quad 𝐓𝐇𝐄\quad 𝐁𝐄𝐋𝐈𝐄𝐕𝐄𝐑."}}$
 </p>
+<p align= center>
+<a href="https://target-url.com"><img src="https://files.catbox.moe/pbsvjk.png" width="20%"></a>
+<a href="https://target-url.com"><img src="https://files.catbox.moe/7ummwr.png" width="20%"></a>
+  <br>
+Ily both /platonic
+</p>
