@@ -1,4 +1,4 @@
-best viewed on desktop. 
+I NEED TO REMAKE THIS SHIT
 
 <div align="center">
   
