@@ -14,4 +14,7 @@
 <img src= "https://files.catbox.moe/av2794.png"width= 180>
 </p>
 <div align="center">
-<b>"EYEㅤOFㅤTHEㅤBELIEVER."</b>
+${\color{#0bb38c}EYE OF THE BELIEVER.}$
+</div>
+<br>
+
