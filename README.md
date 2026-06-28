@@ -11,14 +11,8 @@
 <br>
 <br>
 <p align= center>
-<img src= "https://files.catbox.moe/av2794.png"width= 180>
+<img src= "https://files.catbox.moe/av2794.png"width= 180> <a href="https://target-url.com"><img src="https://files.catbox.moe/7ummwr.png" width="235" align= right></a><a href="https://target-url.com"><img src="https://files.catbox.moe/yzz0yi.png" width="220"align= left></a>
 </p>
 <p align="center">
 $\color{#0bb38c}{{"𝐄𝐘𝐄\quad 𝐎𝐅\quad 𝐓𝐇𝐄\quad 𝐁𝐄𝐋𝐈𝐄𝐕𝐄𝐑."}}$
-</p>
-<p align= center>
-<a href="https://target-url.com"><img src="https://files.catbox.moe/pbsvjk.png" width="20%"></a>
-<a href="https://target-url.com"><img src="https://files.catbox.moe/7ummwr.png" width="20%"></a>
-  <br>
-Ily both /platonic
 </p>
