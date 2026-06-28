@@ -13,7 +13,7 @@ best viewed on desktop.
    </a>
    <br><br>
    <br><br>
- <a href="https://rentry.co/new-perspective">
+ <a href="https://fluffle.cc/shark-bite">
    <img src="https://files.catbox.moe/wcxxz3.png" align="center" width="250">
    </a>
   <br><br>
