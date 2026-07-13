@@ -8,5 +8,5 @@
 </div>
 
 <p align="left">
- <img src="https://files.catbox.moe/qkamv3.png" width="450">
+ <img src="https://files.catbox.moe/qkamv3.png" width="550">
 </p>
