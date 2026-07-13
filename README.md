@@ -7,5 +7,5 @@
 </div>
 
 <p align="left">
- <img src="https://files.catbox.moe/qkamv3.png" width="350">
+ <img src="https://files.catbox.moe/qkamv3.png" width="450">
 </p>
