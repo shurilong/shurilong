@@ -8,6 +8,8 @@
   </a>
 </div>
 
-<div style="float: top;">
+<div align="right">
+  <br>
+  <br>
  <img src="https://files.catbox.moe/qkamv3.png" width="370">
 </div>
