@@ -7,6 +7,6 @@
   </a>
 </div>
 
-<p align="left">
+<div style="float: top;">
  <img src="https://files.catbox.moe/qkamv3.png" width="370">
-</p>
+</div>
