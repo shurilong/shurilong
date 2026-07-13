@@ -4,6 +4,6 @@
 <p align="left">
   <br>
   <br>
- <img src="https://files.catbox.moe/qkamv3.png" width= 470">
+ <img src="https://files.catbox.moe/qkamv3.png" width= 420">
 </p>
 
