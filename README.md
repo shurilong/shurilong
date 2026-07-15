@@ -13,7 +13,7 @@
 
 
 <p align="center">
- <img src="https://files.catbox.moe/i4yabn.png" width= 520"> 
+ <img src="https://files.catbox.moe/i4yabn.png" width= 620"> 
 </p>
 <br>
 <p align="center">
