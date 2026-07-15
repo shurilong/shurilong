@@ -10,5 +10,5 @@
 </p>
 <br>
 <p align="center">
-ESTP 8w7 sx/sp 837 SLE VLFE Choleric-Sanguine SCUEI
+<i><b>ESTP 8w7 sx/sp 837 SLE VLFE Choleric-Sanguine SCUEI</b></i>
 </p>
