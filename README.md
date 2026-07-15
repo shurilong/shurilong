@@ -8,3 +8,7 @@
 <p align="center">
  <img src="https://files.catbox.moe/i4yabn.png" width= 520"> 
 </p>
+<br>
+<p align="center">
+ESTP 8w7 sx/sp 837 SLE VLFE Choleric-Sanguine SCUEI
+</p>
