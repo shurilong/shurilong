@@ -20,4 +20,6 @@
 <i><b>ESTP 8w7 sx/sp 837 SLE VLFE Choleric-Sanguine SCUEI</b></i>
   <br>
   read my links
+  <br>
+  Not open to new friends atm
 </p>
