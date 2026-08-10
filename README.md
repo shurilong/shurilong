@@ -13,7 +13,7 @@
 <br><br>
 <table>
   <tr>
- <td><a href="https://pronouns.cc/@shurilong">prns.cc</a>⠀♡⠀<a href="https://en.pronouns.page/@shurilong">prns.pg</a>⠀♡⠀<a href="https://guns.lol/orison">guns.lol</a>⠀♡⠀<a href="https://fluffle.cc/shark-bite">fluffle</a>
+ <td><a href="https://pronouns.cc/@shurilong">prns.cc</a>⠀♡⠀<a href="https://en.pronouns.page/@shurilong">prns.pg</a>⠀♡⠀<a href="https://guns.lol/orison">guns.lol</a>⠀♡⠀<a href="https://fluffle.cc/bbox">fluffle</a>
 </table>
  </tr>
 
