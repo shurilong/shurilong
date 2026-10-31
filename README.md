@@ -21,5 +21,5 @@
   <a href="https://github.com/kitsunekozz">
     <img src="https://files.catbox.moe/snip8s.png" width="75"></a>
      &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/kitsunekozz">
+  <a href="https://github.com/pathogen-interface">
     <img src="https://files.catbox.moe/pipxmc.png" width="65"></a>
