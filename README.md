@@ -6,6 +6,11 @@
  ⠀ They/Them ⠀⠀<img src="https://komarev.com/ghpvc/?username=shurilong&color=orange&style=flat&label=CRYSTALS"><br>
       ⠀ ⠀ ⠀Agender / Apagender<br>   ⠀🐺 ⠀  ENTJ chol-mel <br>
      ⠀   No DNI , I block freely <br>
+     <p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316irsi7lvbiszx7er54rh3hh7au&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316irsi7lvbiszx7er54rh3hh7au&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=fe5107&bar_color_cover=false" width= "230">
+  </a>
+</p>
  <img align="right" src="https://files.catbox.moe/gs818o.png" width= "70">
      <br> <a href="https://pronouns.cc/@mm12">Prns.cc</a>⠀  <a href="https://en.pronouns.page/@shurilong">Prns.page</a><br> <a href="https://guns.lol/orison">guns.lol</a>⠀  <a href="https://fluffle.cc/I.trapped">Fluffle</a>⠀  <a href="https://shakespeare.atabook.org/">Ata</a> <BR>
   </tr>
