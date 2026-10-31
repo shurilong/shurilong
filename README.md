@@ -11,3 +11,12 @@ WIP
      <br> <a href="https://pronouns.cc/@mm12">Prns.cc</a>⠀  <a href="https://en.pronouns.page/@shurilong">Prns.page</a><br> <a href="https://guns.lol/orison">guns.lol</a>⠀  <a href="https://fluffle.cc/I.trapped">Fluffle</a>⠀  <a href="https://shakespeare.atabook.org/">Ata</a> <BR>
   </tr>
 </table>
+<a href="https://github.com/ElijahNiccky">
+<img src="https://files.catbox.moe/930llt.png" width="75">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/kitsunekozz">
+    <img src="https://files.catbox.moe/snip8s.png" width="75"></a>
+     &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/kitsunekozz">
+    <img src="https://files.catbox.moe/pipxmc.png" width="65"></a>
