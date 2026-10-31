@@ -2,7 +2,7 @@
 <img align="left" src="https://camo.githubusercontent.com/764e5c82bf08165e1382b337565d4c0bd1172448fd1dcab19297d15003ee13c0/68747470733a2f2f66696c65732e636174626f782e6d6f652f7730306977662e706e67" height= "400">
 <table>
   <tr>
-   <td>      ⠀ ⠀ Coil or Donne ⠀Ꮺ ⠀ ⠀ ⠀ <br>
+   <td><br>      ⠀ ⠀ Coil or Donne ⠀Ꮺ ⠀ ⠀ ⠀ <br>
  ⠀ They/Them ⠀⠀<img src="https://komarev.com/ghpvc/?username=shurilong&color=orange&style=flat&label=CRYSTALS"><br>
       ⠀ ⠀ ⠀Agender / Apagender<br>   ⠀🐺 ⠀  ENTJ chol-mel <br>
      ⠀   No DNI , I block freely <br>
