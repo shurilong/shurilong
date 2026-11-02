@@ -11,7 +11,7 @@
      ⠀   No DNI , I block freely <br>
      <p align="center">
  <img align="right" src="https://files.catbox.moe/gs818o.png" width= "70">
-     <br> <a href= "https://pronouns.cc/@PUNK">Prns.cc</a>⠀  <a href="https://en.pronouns.page/@I-trapped">Prns.page</a><br> <a href="https://guns.lol/orison">guns.lol</a>⠀  <a href="https://fluffle.cc/I.trapped">Fluffle</a>⠀  <a href="https://shakespeare.atabook.org/">Ata</a> <BR>
+     <br> <a href= "https://pronouns.cc/@PUNK">Prns.cc</a>⠀  <a href="https://en.pronouns.page/@I-trapped">Prns.page</a><br> <a href="https://guns.lol/orison">guns.lol</a>⠀  <a href="https://fluffle.cc/I.trapped">Fluffle</a>⠀  <a href="https://shakespeare.atabook.org/">Ata</a>⠀  <a href="https://crystalcriminall.straw.page/">Straw</a> <BR>
   </tr>
 </table>
 <a href="https://github.com/ElijahNiccky">
