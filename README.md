@@ -7,7 +7,7 @@
   <tr>
    <td><br>      ⠀ ⠀ Coil or Donne ⠀Ꮺ ⠀ ⠀ ⠀ <br>
  ⠀ They/Them ⠀⠀<img src="https://komarev.com/ghpvc/?username=shurilong&color=orange&style=flat&label=CRYSTALS"><br>
-      ⠀ ⠀ ⠀Agender / Apagender<br>   ⠀🐺 ⠀  ENTJ chol-mel <br>
+      ⠀ ⠀ ⠀Agender / Apagender<br>   ⠀🐺 ⠀  ESTP chol-mel <br>
      ⠀   No DNI , I block freely <br>
      <p align="center">
  <img align="right" src="https://files.catbox.moe/gs818o.png" width= "70">
